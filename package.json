@@ -1,0 +1,19 @@
+{
+  "name": "graphQL-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-graphql": "^0.6.5",
+    "graphql": "^0.9.6",
+    "graphql-server-express": "^0.7.2",
+    "graphql-tools": "^0.11.0",
+    "superagent": "^3.5.2"
+  },
+  "devDependencies": {
+    "dotenv": "^4.0.0",
+    "power-assert": "^1.4.2"
+  }
+}
